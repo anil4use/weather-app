@@ -1,0 +1,19 @@
+.bg{
+    background-repeat: no-repeat;
+}
+body{
+    background-image:url(./photo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    opacity: 1;
+    z-index: 8;
+    background: linear-gradient(135deg, white, lightgreen, darkblue);
+   
+}
+#max_temp{
+    margin-bottom: 100px;
+}
+.bold{
+  font-size: 100px;
+}
